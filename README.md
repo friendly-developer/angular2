@@ -1,2 +1,12 @@
-# angular2
-An angular Project developed as POC, to build concepts in both TS and Angular JS
+# Angular 2 Projects
+
+This repo is for building Angular2 applications ranging from TODO list to Tour of Heroes tutorials
+
+## Planned Projects
+
+  - TODO List App
+  - Neighborhood Maps with Google API
+  - Age of heroes Tutorial
+
+
+## Licesne : MIT
