@@ -1,6 +1,7 @@
 # DEVELOPERSHUB
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.0.
+This is application deals with a similar application architecture of Tour o Heroes.
 
 ## Development server
 
